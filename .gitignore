@@ -105,4 +105,4 @@ dist
 
 
 # temp files
-tmp/app.db
+db/app.db
