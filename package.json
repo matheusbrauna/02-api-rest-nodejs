@@ -2,7 +2,7 @@
   "name": "02-api-rest-nodejs",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "server.js",
   "engines": {
     "node": ">=18"
   },
